@@ -1,1 +1,4 @@
-print("S40224203")
+'''
+mystring = "40224203"
+print(mystring)
+'''
